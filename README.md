@@ -1,4 +1,4 @@
-<h1> Correção da Inflação<\h1?>
+<h1> Correção da Inflação<\h1>
 Este projeto tem por finalidade prover uma classe capaz de calcular a correção de valores da inflação, com base nos seguintes índices:
 <li>
   <ul> INPC - Índice Nacional de Preços ao Consumidor <\ul>
